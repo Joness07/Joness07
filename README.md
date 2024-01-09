@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey there! 👋 I'm Samuel
+# About Me
+🎓 Third-year university student majoring in Computer Science
+💻 Passionate about coding, focusing on coursework and personal projects
+🚀 Projects span various domains: Unity game dev, website design, and more
+🌐 Skills include HTML, CSS, JS, Java, C, C++, C#, MATLAB
+🎯 Working on an exciting e-learning website for computer science education
+🔍 Using GitHub for version control & showcasing my project portfolio
+🌱 Always learning, growing, and open to collaboration opportunities
 
-<!--
-**Joness07/Joness07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About My GitHub
+Welcome to my GitHub profile! My repositories are a mix of university courseworks and passion projects to showcase my skills.
 
-Here are some ideas to get you started:
+Let's connect! Feel free to reach out for collaborations or discussions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for dropping by! 😊
