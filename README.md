@@ -4,7 +4,7 @@
 - 💻 Passionate about coding, focusing on coursework and personal projects
 - 🚀 Projects span various domains: Unity game dev, website design, and more
 - 🌐 Skills include HTML, CSS, JS, Java, C, C++, C#, MATLAB
-- 🎯 Working on an exciting e-learning website for computer science education
+- 🎯 Working on an e-learning website for computer science education as final year project
 - 🔍 Using GitHub for version control & showcasing my project portfolio
 - 🌱 Always learning, growing, and open to collaboration opportunities
 
