@@ -10,5 +10,7 @@
 
 # About My GitHub
 Welcome to my GitHub profile! My repositories are a mix of university courseworks and passion projects to showcase my skills.
+
 Let's connect! Feel free to reach out for collaborations or discussions.
+
 Thanks for dropping by! 😊
