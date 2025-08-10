@@ -1,11 +1,9 @@
 # Hey there! 👋 I'm Samuel
 # About Me
 - 🎓 Computer Science BSc Graduate
-- 💻 Passionate about coding, focusing on coursework and personal projects
+- 💻 Currently working as a Graduate Software Engineer
 - 🚀 Projects span various domains: Unity game dev, website design, and more
 - 🌐 Skills include HTML, CSS, JS, Java, C, C++, C#, MATLAB
-- 🔍 Using GitHub for version control & showcasing my project portfolio
-- 🌱 Always learning, growing, and open to collaboration opportunities
 
 # About My GitHub
 Welcome to my GitHub profile! My repositories are a mix of university coursework and passion projects to showcase my skills.
